@@ -1,6 +1,6 @@
 {
-  "name": "Core Tracker Lite",
-  "short_name": "CT Lite",
+  "name": "Core Tracker ",
+  "short_name": "Core Tracker",
   "description": "Walk-in sale tracker for service businesses — by CoreDigitalTools",
   "start_url": "./index.html",
   "display": "standalone",
